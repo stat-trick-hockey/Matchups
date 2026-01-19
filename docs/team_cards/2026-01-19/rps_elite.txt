@@ -2,24 +2,24 @@ ELITE RPS (4/5 & 5/5 only) — 2026-01-19
 --------------------------------------------------------
 WSH_at_COL  |  WSH 0/5 vs COL 4/5
   WSH: Verdict: No clear meta edge
-  COL: Verdict: Defense (+62) + Finish (+49)
+  COL: Verdict: Defense (+62) + Finish (+49) + Control (+48) + Pressure (+38)
 
 SJS_at_FLA  |  SJS 1/5 vs FLA 4/5
   SJS: Verdict: Finish (+22)
-  FLA: Verdict: Pressure (+64) + Disrupt (+41)
+  FLA: Verdict: Pressure (+64) + Disrupt (+41) + Control (+17) + Finish (+9)
 
 PIT_at_SEA  |  PIT 4/5 vs SEA 0/5
-  PIT: Verdict: Disrupt (+34) + Finish (+33)
+  PIT: Verdict: Disrupt (+34) + Finish (+33) + Pressure (+26) + Defense (+20)
   SEA: Verdict: Lean Defense (+7)
 
 PHI_at_VGK  |  PHI 1/5 vs VGK 4/5
   PHI: Verdict: Control (+9)
-  VGK: Verdict: Finish (+55) + Control (+31)
+  VGK: Verdict: Finish (+55) + Control (+31) + Pressure (+16) + Defense (+16)
 
 NYI_at_VAN  |  NYI 4/5 vs VAN 0/5
-  NYI: Verdict: Pressure (+47) + Defense (+42)
+  NYI: Verdict: Pressure (+47) + Defense (+42) + Disrupt (+22) + Control (+9)
   VAN: Verdict: No clear meta edge
 
 NJD_at_CGY  |  NJD 4/5 vs CGY 1/5
-  NJD: Verdict: Defense (+38) + Control (+24)
+  NJD: Verdict: Defense (+38) + Control (+24) + Disrupt (+12) + Pressure (+9)
   CGY: Verdict: Defense (+44)
