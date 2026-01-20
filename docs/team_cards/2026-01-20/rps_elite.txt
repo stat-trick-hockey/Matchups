@@ -1,0 +1,9 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-20
+--------------------------------------------------------
+OTT_at_CBJ  |  OTT 4/5 vs CBJ 1/5
+  OTT: Verdict: Pressure (+46) + Control (+36) + Defense (+34) + Finish (+26)
+  CBJ: Verdict: Pressure (+36)
+
+NYR_at_LAK  |  NYR 2/5 vs LAK 4/5
+  NYR: Verdict: Defense (+33) + Control (+29)
+  LAK: Verdict: Defense (+55) + Control (+16) + Disrupt (+14) + Pressure (+9)
