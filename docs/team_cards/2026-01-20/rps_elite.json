@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-20",
+  "count": 2,
+  "games": [
+    {
+      "date": "2026-01-20",
+      "matchup": "OTT_at_CBJ",
+      "away": "OTT",
+      "home": "CBJ",
+      "away_score": 4,
+      "home_score": 1,
+      "away_verdict": "Verdict: Pressure (+46) + Control (+36) + Defense (+34) + Finish (+26)",
+      "home_verdict": "Verdict: Pressure (+36)"
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "NYR_at_LAK",
+      "away": "NYR",
+      "home": "LAK",
+      "away_score": 2,
+      "home_score": 4,
+      "away_verdict": "Verdict: Defense (+33) + Control (+29)",
+      "home_verdict": "Verdict: Defense (+55) + Control (+16) + Disrupt (+14) + Pressure (+9)"
+    }
+  ]
+}
