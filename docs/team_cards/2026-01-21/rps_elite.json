@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-21",
+  "count": 2,
+  "games": [
+    {
+      "date": "2026-01-21",
+      "matchup": "WSH_at_VAN",
+      "away": "WSH",
+      "home": "VAN",
+      "away_score": 4,
+      "home_score": 0,
+      "away_verdict": "Verdict: Pressure (+84) + Defense (+54) + Disrupt (+10) + Finish (+9)",
+      "home_verdict": "Verdict: No clear meta edge"
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "ANA_at_COL",
+      "away": "ANA",
+      "home": "COL",
+      "away_score": 0,
+      "home_score": 4,
+      "away_verdict": "Verdict: Lean Control (+8)",
+      "home_verdict": "Verdict: Pressure (+92) + Defense (+44) + Finish (+31) + Control (+27)"
+    }
+  ]
+}
