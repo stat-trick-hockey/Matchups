@@ -1,0 +1,9 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-21
+--------------------------------------------------------
+WSH_at_VAN  |  WSH 4/5 vs VAN 0/5
+  WSH: Verdict: Pressure (+84) + Defense (+54) + Disrupt (+10) + Finish (+9)
+  VAN: Verdict: No clear meta edge
+
+ANA_at_COL  |  ANA 0/5 vs COL 4/5
+  ANA: Verdict: Lean Control (+8)
+  COL: Verdict: Pressure (+92) + Defense (+44) + Finish (+31) + Control (+27)
