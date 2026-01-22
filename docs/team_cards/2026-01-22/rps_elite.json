@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-22",
+  "count": 2,
+  "games": [
+    {
+      "date": "2026-01-22",
+      "matchup": "OTT_at_NSH",
+      "away": "OTT",
+      "home": "NSH",
+      "away_score": 5,
+      "home_score": 1,
+      "away_verdict": "Verdict: Pressure (+34) + Disrupt (+34) + Defense (+31) + Control (+16) + Finish (+12)",
+      "home_verdict": "Verdict: Disrupt (+20)"
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "CHI_at_CAR",
+      "away": "CHI",
+      "home": "CAR",
+      "away_score": 1,
+      "home_score": 4,
+      "away_verdict": "Verdict: Defense (+11)",
+      "home_verdict": "Verdict: Pressure (+67) + Disrupt (+48) + Control (+45) + Defense (+28)"
+    }
+  ]
+}
