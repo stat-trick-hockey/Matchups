@@ -1,0 +1,9 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-22
+--------------------------------------------------------
+OTT_at_NSH  |  OTT 5/5 vs NSH 1/5
+  OTT: Verdict: Pressure (+34) + Disrupt (+34) + Defense (+31) + Control (+16) + Finish (+12)
+  NSH: Verdict: Disrupt (+20)
+
+CHI_at_CAR  |  CHI 1/5 vs CAR 4/5
+  CHI: Verdict: Defense (+11)
+  CAR: Verdict: Pressure (+67) + Disrupt (+48) + Control (+45) + Defense (+28)
