@@ -1,0 +1,13 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-23
+--------------------------------------------------------
+PHI_at_COL  |  PHI 0/5 vs COL 5/5
+  PHI: Verdict: No clear meta edge
+  COL: Verdict: Finish (+57) + Control (+50) + Pressure (+41) + Defense (+34) + Disrupt (+31)
+
+TBL_at_CHI  |  TBL 4/5 vs CHI 1/5
+  TBL: Verdict: Finish (+38) + Disrupt (+38) + Pressure (+36) + Defense (+33)
+  CHI: Verdict: Finish (+13)
+
+NJD_at_VAN  |  NJD 4/5 vs VAN 0/5
+  NJD: Verdict: Pressure (+61) + Defense (+48) + Disrupt (+27) + Control (+22)
+  VAN: Verdict: No clear meta edge
