@@ -1,0 +1,36 @@
+{
+  "date": "2026-01-25",
+  "count": 3,
+  "games": [
+    {
+      "date": "2026-01-25",
+      "matchup": "PIT_at_VAN",
+      "away": "PIT",
+      "home": "VAN",
+      "away_score": 4,
+      "home_score": 0,
+      "away_verdict": "Verdict: Pressure (+73) + Defense (+64) + Finish (+35) + Disrupt (+12)",
+      "home_verdict": "Verdict: No clear meta edge"
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "FLA_at_CHI",
+      "away": "FLA",
+      "home": "CHI",
+      "away_score": 4,
+      "home_score": 0,
+      "away_verdict": "Verdict: Disrupt (+48) + Pressure (+42) + Finish (+16) + Control (+9)",
+      "home_verdict": "Verdict: Lean Defense (+8)"
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "COL_at_TOR",
+      "away": "COL",
+      "home": "TOR",
+      "away_score": 4,
+      "home_score": 0,
+      "away_verdict": "Verdict: Pressure (+67) + Control (+66) + Finish (+33) + Disrupt (+22)",
+      "home_verdict": "Verdict: Lean Finish (+6)"
+    }
+  ]
+}
