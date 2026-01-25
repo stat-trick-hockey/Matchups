@@ -1,0 +1,13 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-25
+--------------------------------------------------------
+PIT_at_VAN  |  PIT 4/5 vs VAN 0/5
+  PIT: Verdict: Pressure (+73) + Defense (+64) + Finish (+35) + Disrupt (+12)
+  VAN: Verdict: No clear meta edge
+
+FLA_at_CHI  |  FLA 4/5 vs CHI 0/5
+  FLA: Verdict: Disrupt (+48) + Pressure (+42) + Finish (+16) + Control (+9)
+  CHI: Verdict: Lean Defense (+8)
+
+COL_at_TOR  |  COL 4/5 vs TOR 0/5
+  COL: Verdict: Pressure (+67) + Control (+66) + Finish (+33) + Disrupt (+22)
+  TOR: Verdict: Lean Finish (+6)
