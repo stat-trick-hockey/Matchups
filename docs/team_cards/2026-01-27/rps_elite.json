@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-27",
+  "count": 1,
+  "games": [
+    {
+      "date": "2026-01-27",
+      "matchup": "CHI_at_MIN",
+      "away": "CHI",
+      "home": "MIN",
+      "away_score": 1,
+      "home_score": 4,
+      "away_verdict": "Verdict: Finish (+18)",
+      "home_verdict": "Verdict: Finish (+62) + Disrupt (+50) + Pressure (+28) + Defense (+25)"
+    }
+  ]
+}
