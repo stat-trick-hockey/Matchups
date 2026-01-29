@@ -1,0 +1,9 @@
+ELITE RPS (4/5 & 5/5 only) — 2026-01-29
+--------------------------------------------------------
+CHI_at_PIT  |  CHI 0/5 vs PIT 4/5
+  CHI: Verdict: No clear meta edge
+  PIT: Verdict: Finish (+56) + Pressure (+42) + Disrupt (+39) + Defense (+22)
+
+ANA_at_VAN  |  ANA 4/5 vs VAN 1/5
+  ANA: Verdict: Pressure (+88) + Finish (+29) + Disrupt (+28) + Control (+16)
+  VAN: Verdict: Pressure (+31)
