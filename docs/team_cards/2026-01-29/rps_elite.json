@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-29",
+  "count": 2,
+  "games": [
+    {
+      "date": "2026-01-29",
+      "matchup": "CHI_at_PIT",
+      "away": "CHI",
+      "home": "PIT",
+      "away_score": 0,
+      "home_score": 4,
+      "away_verdict": "Verdict: No clear meta edge",
+      "home_verdict": "Verdict: Finish (+56) + Pressure (+42) + Disrupt (+39) + Defense (+22)"
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "ANA_at_VAN",
+      "away": "ANA",
+      "home": "VAN",
+      "away_score": 4,
+      "home_score": 1,
+      "away_verdict": "Verdict: Pressure (+88) + Finish (+29) + Disrupt (+28) + Control (+16)",
+      "home_verdict": "Verdict: Pressure (+31)"
+    }
+  ]
+}
